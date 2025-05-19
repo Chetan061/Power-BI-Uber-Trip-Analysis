@@ -6,7 +6,7 @@ This project analyzes Uber ride data using Power BI to uncover key trends and in
 * Trip analysis by hour, day, and month
 * Identification of peak usage times
 * Pickup & drop-off location insights
-*Interactive slicers and visuals for dynamic exploration
+* Interactive slicers and visuals for dynamic exploration
 
 # 📊 Tools Used: Power BI, DAX, Data Cleaning & Transformation
 
