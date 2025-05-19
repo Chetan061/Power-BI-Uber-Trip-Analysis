@@ -1,4 +1,5 @@
 🚖 Uber Trip Analysis & Time Insights – Power BI Dashboard
+
 This project analyzes Uber ride data using Power BI to uncover key trends and insights related to trip frequency, time-based patterns, and geographic distribution.
 
 🔍 Key Features:
